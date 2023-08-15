@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133620190938",
+    "project_id": "fbkit-a0bce",
+    "storage_bucket": "fbkit-a0bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133620190938:android:a43acde1c1de96a9c9dfe3",
+        "android_client_info": {
+          "package_name": "com.example.fbkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133620190938-qqnlbf07u3m08gv44rt4r83t16vbmq9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaO-8N8M6zYFU8ItMqWHK8EBguS6A5uUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133620190938-qqnlbf07u3m08gv44rt4r83t16vbmq9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
